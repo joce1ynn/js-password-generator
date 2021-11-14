@@ -21,7 +21,7 @@ function generatePassword() {
   var length = 0;
   var askLength = true;
   while (askLength) {
-    if (length < 8 || length > 128) {
+    if (length < 8 || length > 128 || isNaN(length) ) {
       length = window.prompt(
         "Please enter a number from 8 to 128 for password length."
       );
