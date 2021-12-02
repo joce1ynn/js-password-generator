@@ -9,7 +9,7 @@ This web page helps users to generate password randomly. I was able to use basic
 * JavaScript
 
 ## Website
-https://joce1ynn.github.io/password-generator-js/
+https://joce1ynn.github.io/password-generator-JS/
 
 ## Website Screenshot
 ![Screenshot](/assets/images/Password-Generat.png)
